@@ -1,0 +1,15 @@
+C:\Users\sirmi\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\sirmi\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\sirmi\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.Signup.resources
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.Signin.resources
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.Main.resources
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.Additem.resources
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.Cart.resources
+C:\Users\sirmi\source\repos\Inventory\Inventory\obj\Debug\Inventory.Viewcart.resources
